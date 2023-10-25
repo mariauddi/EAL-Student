@@ -120,7 +120,7 @@
           
           <configuration>
 			<suiteXmlFiles> 
-		       <suiteXmlFile>Runtime\ExecutionFile\testng.xml</suiteXmlFile>
+		       <suiteXmlFile>Pipeline/${xmlFiles}</suiteXmlFile>
              </suiteXmlFiles> 
            </configuration>
            
